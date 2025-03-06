@@ -1,0 +1,21 @@
+.homepage{
+    background-color: black;
+    color: green;
+    border-radius: 20%;
+}
+.category-page{
+    background-color: black;
+    color: aqua;
+}
+.Recipie-page{
+    background-color: black;
+    color: black;
+}
+.home-categories-container{
+    background-color: black;
+    color: aqua;
+}
+.footer-options{
+    font-size:10px;
+    font-weight: 600;
+}
